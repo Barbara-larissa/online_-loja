@@ -13,8 +13,6 @@ Confira abaixo o visual da aplicação:
 ### 📦 Listagem de Produtos
 ![Produtos](https://github.com/user-attachments/assets/01a8e536-de06-4a8b-801b-d1b39266bbca)
 
-### 🏷️ Categorias e Filtros
-![Categorias](https://github.com)
 
 ## ✨ Funcionalidades
 
